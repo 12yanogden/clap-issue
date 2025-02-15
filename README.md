@@ -8,6 +8,7 @@ The `only_required_for_required_group` argument should not satisfy the `requires
 
 1. Clone this repository.
 2. Run the tests using the following command:
+
     ```sh
     cargo test
     ```
